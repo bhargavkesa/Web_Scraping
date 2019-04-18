@@ -16,7 +16,7 @@ links = []
 for link in link2:
     links.append(url[:26] + link.a['href'])
     
-links = links[2:]
+links = links[1:]
     
 def get_response(url):
     flag = 0
