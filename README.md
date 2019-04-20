@@ -6,6 +6,8 @@
  
  we need to run the following commands in the terminal
  
+ sudo apt install python3-pip
+ 
  python3 -m pip install pandas
  
  python3 -m pip install lxml
